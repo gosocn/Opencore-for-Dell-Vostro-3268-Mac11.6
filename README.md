@@ -14,8 +14,11 @@ CPU | Intel(R) Core(TM) i5-7400 CPU
 核显/iGPU | Intel® HD Graphics 630 
 
 声卡/Audio | Realtek ALC867
+
 硬盘/Hard Disk | WD 500g
+
 网卡/Ethernet | Realtek RTL8111
+
 无线网卡/Wireless | Atheros 9565
 
 
