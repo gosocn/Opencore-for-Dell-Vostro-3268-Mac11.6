@@ -1,5 +1,6 @@
 # Opencore-for-Dell-Vostro-3268-Mac11.6
 Opencore-for-Dell-Vostro-3268-Mac11.6
+
 Opencore 0.94
 
 电脑配置/Technical Detail
